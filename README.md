@@ -1,4 +1,4 @@
-# fLIGHT DELAY BLOCKCHAIN
+# FLIGHT DELAY BLOCKCHAIN
 
 
 This repository containts an Ethereum DApp that simulates an flight insurance service. It is not a full version of this kind of app but it is enough to ilustrate how it could be implemented over Ethereum.
